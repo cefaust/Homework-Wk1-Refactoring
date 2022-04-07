@@ -2,7 +2,7 @@
 
 ## This project was meant to take an existing website and approve the code to make it more accessible. I was charged with keeping the site working in its existing state without making changes to how the site works and looks. It also asked to clean up the CSS by combinding classes that had like properties
 
-### Description of changes
+### Description of Changes
 
  1. I used symantic Html elements to change the generic **div tags** to something more legible that a screen reader might be able to understand.
 
@@ -13,3 +13,6 @@
  4. I then went into the CSS to clean up the elements by combinding elements that had like properties. By doing this it allows someone looking at the css stylsheet to easily find which elemnets are being targeted and what is being done to them.
 
  ![Working site](./assets/images/Working-site-HW-W1.gif)
+
+ [Github Pages](https://cefaust.github.io/Homework-Wk1-Refactoring/#social-media-marketing)
+
