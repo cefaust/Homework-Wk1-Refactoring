@@ -12,4 +12,4 @@
 
  4. I then went into the CSS to clean up the elements by combinding elements that had like properties. By doing this it allows someone looking at the css stylsheet to easily find which elemnets are being targeted and what is being done to them.
 
- ![Working site](./Develop/assets/images/Working-site-HW-W1.gif)
+ ![Working site](./assets/images/Working-site-HW-W1.gif)
